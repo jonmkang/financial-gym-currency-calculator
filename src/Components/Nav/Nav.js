@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import { Menu, Segment, Header } from 'semantic-ui-react';
+import { Menu } from 'semantic-ui-react';
 import './Nav.css'
 
 export default function Nav(){
