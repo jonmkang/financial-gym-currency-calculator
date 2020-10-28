@@ -1,27 +1,26 @@
 {
   "files": {
     "main.css": "/financial-gym-currency-calculator/static/css/main.b8dbb37d.chunk.css",
-    "main.js": "/financial-gym-currency-calculator/static/js/main.cae0e90e.chunk.js",
-    "main.js.map": "/financial-gym-currency-calculator/static/js/main.cae0e90e.chunk.js.map",
+    "main.js": "/financial-gym-currency-calculator/static/js/main.81078e86.chunk.js",
+    "main.js.map": "/financial-gym-currency-calculator/static/js/main.81078e86.chunk.js.map",
     "runtime-main.js": "/financial-gym-currency-calculator/static/js/runtime-main.8591dff3.js",
     "runtime-main.js.map": "/financial-gym-currency-calculator/static/js/runtime-main.8591dff3.js.map",
     "static/css/2.dee6b3d7.chunk.css": "/financial-gym-currency-calculator/static/css/2.dee6b3d7.chunk.css",
-    "static/js/2.fdc6fb14.chunk.js": "/financial-gym-currency-calculator/static/js/2.fdc6fb14.chunk.js",
-    "static/js/2.fdc6fb14.chunk.js.map": "/financial-gym-currency-calculator/static/js/2.fdc6fb14.chunk.js.map",
+    "static/js/2.cf331746.chunk.js": "/financial-gym-currency-calculator/static/js/2.cf331746.chunk.js",
+    "static/js/2.cf331746.chunk.js.map": "/financial-gym-currency-calculator/static/js/2.cf331746.chunk.js.map",
     "static/js/3.f373d9c7.chunk.js": "/financial-gym-currency-calculator/static/js/3.f373d9c7.chunk.js",
     "static/js/3.f373d9c7.chunk.js.map": "/financial-gym-currency-calculator/static/js/3.f373d9c7.chunk.js.map",
     "index.html": "/financial-gym-currency-calculator/index.html",
     "static/css/2.dee6b3d7.chunk.css.map": "/financial-gym-currency-calculator/static/css/2.dee6b3d7.chunk.css.map",
     "static/css/main.b8dbb37d.chunk.css.map": "/financial-gym-currency-calculator/static/css/main.b8dbb37d.chunk.css.map",
-    "static/js/2.fdc6fb14.chunk.js.LICENSE.txt": "/financial-gym-currency-calculator/static/js/2.fdc6fb14.chunk.js.LICENSE.txt",
-    "static/media/semantic.min.css": "/financial-gym-currency-calculator/static/media/outline-icons.ddae9b1b.woff",
-    "static/media/logo.103b5fa1.svg": "/financial-gym-currency-calculator/static/media/logo.103b5fa1.svg"
+    "static/js/2.cf331746.chunk.js.LICENSE.txt": "/financial-gym-currency-calculator/static/js/2.cf331746.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/financial-gym-currency-calculator/static/media/outline-icons.ddae9b1b.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.8591dff3.js",
     "static/css/2.dee6b3d7.chunk.css",
-    "static/js/2.fdc6fb14.chunk.js",
+    "static/js/2.cf331746.chunk.js",
     "static/css/main.b8dbb37d.chunk.css",
-    "static/js/main.cae0e90e.chunk.js"
+    "static/js/main.81078e86.chunk.js"
   ]
 }
